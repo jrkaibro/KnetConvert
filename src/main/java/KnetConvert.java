@@ -7,6 +7,7 @@ import com.lowagie.text.pdf.codec.Base64;
 import org.w3c.dom.Document;
 import org.w3c.tidy.Tidy;
 import org.xhtmlrenderer.pdf.ITextRenderer;
+import com.genexus.ModelContext; java  public KnetConvert(int remoteHandle, ModelContext context) {} 
 
 import java.io.*;
 import java.net.MalformedURLException;
